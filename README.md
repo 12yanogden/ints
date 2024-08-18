@@ -1,2 +1,3 @@
-# ints
-Helper functions for go ints.
+# go-ints
+
+Helper functions for int type variables in Go.

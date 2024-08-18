@@ -1,3 +1,3 @@
-module github.com/12yanogden/ints
+module github.com/12yanogden/go-ints
 
-go 1.21.5
+go 1.23.0
